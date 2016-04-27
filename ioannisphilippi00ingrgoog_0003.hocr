@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./ioannisphilippi00ingrgoog_0003.png"; bbox 0 0 3492 4809; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 473 1652 1136 1793">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 473 1652 1136 1793">
+     <span class='ocr_line' id='line_1_1' title="bbox 473 1652 1136 1793; baseline -0.065 17"><span class='ocrx_word' id='word_1_1' title='bbox 473 1661 475 1663; x_wconf 8' lang='grc' dir='ltr'>Ι</span> <span class='ocrx_word' id='word_1_2' title='bbox 596 1652 598 1657; x_wconf 10' lang='lat' dir='ltr'><em>s</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 686 1694 1136 1793; x_wconf 41' lang='lat' dir='ltr'>QQQQ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 707 1793 1127 1975">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 686 1793 1127 1975">
+     <span class='ocr_line' id='line_1_2' title="bbox 707 1793 1124 1901; baseline -0.115 -2"><span class='ocrx_word' id='word_1_4' title='bbox 707 1798 723 1897; x_wconf 46' lang='lat' dir='ltr'><strong>s</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 738 1793 807 1879; x_wconf 71' lang='lat' dir='ltr'>Soy</span> <span class='ocrx_word' id='word_1_6' title='bbox 819 1796 1070 1901; x_wconf 28' lang='lat' dir='ltr'>dela‘Lib&#39;1·eri21</span> <span class='ocrx_word' id='word_1_7' title='bbox 1091 1805 1124 1895; x_wconf 51' lang='lat' dir='ltr'><em>V</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 709 1885 1127 1975; baseline -0.166 -17.807"><span class='ocrx_word' id='word_1_8' title='bbox 686 1888 719 1961; x_wconf 58' lang='grc' dir='ltr'>Ῡ</span> <span class='ocrx_word' id='word_1_9' title='bbox 797 1888 851 1951; x_wconf 78' lang='lat' dir='ltr'>dei</span> <span class='ocrx_word' id='word_1_10' title='bbox 866 1885 1010 1975; x_wconf 60' lang='lat' dir='ltr'><strong>COIssglo</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 1082 1885 1127 1975; x_wconf 46' lang='lat'>¹⁸(</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1750 4809">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1750 4809">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1750 4809; baseline 0 0"><span class='ocrx_word' id='word_1_12' title='bbox 0 0 1750 4809; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
